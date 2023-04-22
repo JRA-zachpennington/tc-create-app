@@ -37,7 +37,7 @@
     "bible-reference-range": "^1.1.0",
     "datatable-translatable": "^1.0.23",
     "deep-freeze": "^0.0.1",
-    "gitea-react-toolkit": "2.2.4",
+    "gitea-react-toolkit": "file:.yalc/gitea-react-toolkit",
     "lodash.isequal": "^4.5.0",
     "markdown-translatable": "2.1.4",
     "react": "^16.14.0",
